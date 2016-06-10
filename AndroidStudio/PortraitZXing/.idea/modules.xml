@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/PortraitZXingClient.iml" filepath="$PROJECT_DIR$/PortraitZXingClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/landscapezxing/landscapezxing.iml" filepath="$PROJECT_DIR$/landscapezxing/landscapezxing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/portraitzxing/app.iml" filepath="$PROJECT_DIR$/portraitzxing/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zxinglibrary/zxinglibrary.iml" filepath="$PROJECT_DIR$/zxinglibrary/zxinglibrary.iml" />
+    </modules>
+  </component>
+</project>

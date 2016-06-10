@@ -1,0 +1,1 @@
+include ':portraitzxing', ':zxinglibrary', ':landscapezxing'
