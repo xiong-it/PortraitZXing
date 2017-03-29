@@ -23,4 +23,6 @@ AndroidStudio:供使用Android Studio作为IDE的开发者使用</br>
 #changelog</br>
 v1.0(2016/06/10)</br>
 library based on v3.2.1</br>
-client based on v4.7.6(106)
+client based on v4.7.6(106)  
+
+[more...][http://blog.csdn.net/xiong_it/article/details/46983293]
