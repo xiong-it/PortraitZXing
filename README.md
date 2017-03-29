@@ -25,4 +25,4 @@ v1.0(2016/06/10)</br>
 library based on v3.2.1</br>
 client based on v4.7.6(106)  
 
-[more...][http://blog.csdn.net/xiong_it/article/details/46983293]
+Blog:[Android开发：ZXing条码扫描-竖屏解决方案](http://blog.csdn.net/xiong_it/article/details/46983293)
